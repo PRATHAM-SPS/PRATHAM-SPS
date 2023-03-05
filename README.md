@@ -7,9 +7,9 @@ As a developer and troubleshooter, I bring a unique blend of skills to the table
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👯 I’m looking to collaborate on **Machine Learning,IOT,Web development Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, IOT, Web development Projects**
 
-- 📫 How to reach me **ingawaleprathham@gmail.com**
+- 📫 How to reach me **ingawalepratham@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
